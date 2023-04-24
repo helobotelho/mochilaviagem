@@ -1,2 +1,2 @@
 ## Projeto Realizado para Estudo de JavaScript
-### Curso: JavaScript: manipulando o DOM || Alura
+### Curso: JavaScript: JavaScript na Web: armazenando dados no navegador || Alura
